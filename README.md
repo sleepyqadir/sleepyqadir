@@ -20,7 +20,7 @@ The green dots on my Github <a href="https://github.com/AQadir64">profile<a/> wi
 - :paperclip: MongoDb / Firebase 
 - :paperclip: React Native
 
-Consider leaving a :star: on my <a href="orthocovid-19.netlify.com">Covid-19<a/> :eight_spoked_asterisk: <a href="https://github.com/AQadir64/Covid-19"> Tracker <a/> i have made :heartpulse:
+Consider leaving a :star: on my <a href="https://github.com/AQadir64/TechFolio">TechFolio<a/> 😄 Open Source Portfolio i have made :heartpulse:
 
 **Thats all from me right now 👋👋**
 
