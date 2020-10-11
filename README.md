@@ -2,6 +2,8 @@
 
 #### It's good to see you here 😄
 
+<img align="right" width="20%" src="https://user-images.githubusercontent.com/28962172/95673565-0d9f3d00-0bc3-11eb-9c67-f1bfe033a2ae.png"/>
+
 The green dots on my Github <a href="https://github.com/AQadir64">profile<a/> will show you my journey up till now in the world of computer science and software development :eyes: , from haven't think about computer science and then picking it as a carrier back in 2017 I have discovered a lot in this system :sunglasses::sunglasses:. But outside Github I'm just an ordinary karachitte man who loves to do mobile photography and write thoughts :smirk: you can also follow me on <a href="https://www.instagram.com/_ayin_qoph/">Insta <a/> for some random photography stuff :blue_heart::blue_heart:.
 
 #### Unusual Stuff😄
